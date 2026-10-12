@@ -1,7 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import type { KeyboardEvent, ReactNode } from "react";
 import { useLanguage } from "../../context/LanguageContext";
-
 import {
   Bell,
   Check,
@@ -12,7 +11,6 @@ import {
   Moon,
   RefreshCw,
   Search,
-  Settings,
   Sun,
   UserCog,
   X,
